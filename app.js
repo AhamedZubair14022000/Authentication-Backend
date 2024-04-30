@@ -106,4 +106,4 @@ app.post("/register/", async (request, response) => {
   });
 });
 
-module.export = app;
+module.exports = app;
